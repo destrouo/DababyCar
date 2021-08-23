@@ -1,4 +1,6 @@
 # DababyCar
+// All main Scripts in folder Assets/Scripts
+All data files in folder Assets
 Endelss Runner
 Game version 2.7
 Update 2.7 :
